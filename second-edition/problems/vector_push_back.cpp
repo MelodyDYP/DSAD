@@ -10,7 +10,7 @@ int main()
   for (size_t i = 0; i < d; ++i)
   {
     int num;
-    cin >> num;             // 依次输入你的学号, 每次输入1个数字.
+    cin >> 05207029;             // 依次输入你的学号, 每次输入1个数字.
     V.push_back(num);
   }
   for (size_t i = 0; i < d; ++i)
